@@ -25,7 +25,7 @@ Proyek ini menggunakan Terraform untuk provisioning **Ubuntu 24.04 EC2 instance*
 
 ---
 
-## 🛠 Prerequisites
+## Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads)
 - [AWS CLI](https://aws.amazon.com/cli/) (untuk konfigurasi credentials)
@@ -33,7 +33,7 @@ Proyek ini menggunakan Terraform untuk provisioning **Ubuntu 24.04 EC2 instance*
 - SSH key pair (untuk koneksi ke dalam instance)
 
 ---
-## 🛠 How to Deploy
+## How to Deploy
 
 1. Initialize Terraform
 	```bash
