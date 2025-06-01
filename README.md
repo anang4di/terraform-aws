@@ -17,9 +17,11 @@ Proyek ini menggunakan Terraform untuk provisioning **Ubuntu 24.04 EC2 instance*
 
 ## Project Structure
 
+```
 ├── main.tf # Main Terraform configuration  
 ├── variables.tf # Input variables
 └── terraform.tfvars # Variable values (optional)
+```
 
 ---
 
