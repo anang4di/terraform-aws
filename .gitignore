@@ -1,0 +1,5 @@
+# Git ignore file for Terraform projects
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
